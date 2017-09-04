@@ -1,4 +1,4 @@
-# airlineReviewClassifier
+# Airline Query Classifier
 A classifier based on machine learning techniques to classify user reviews into the different classes. It is a multi - class classification problem. 
 
 # Packages: Below packages were used for supervised classification.
