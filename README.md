@@ -24,15 +24,15 @@ The dataset has 398 rows and 2 columns (line, class). Line indicates the user qu
 # Data Preprocessing
 The dataset has a total of 7 classes with the below splits. 
 
-#####################
-- login        105     
-- other         79
-- baggage       76
-- check in      61
-- greetings     45
-- cancel        16
-- thanks        16
-######################
+# class      no of records
+login  	     105
+other	       79
+baggage	     76
+check in	    61
+greetings	   45
+cancel	      16
+thanks	      16
+
 
 1. A brief examination of the data reveals that the words used by users for the same kind of query varies. For instance, check-in has been addressed as check-in, check in, checkin, check me in. Thus, it becomes sensible to replace these different version with a predefined text (This will reduce the sparsity). 
 2. Further, we can remove the stop words again to minimize sparsity of the resulting matrix. 
