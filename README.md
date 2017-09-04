@@ -9,8 +9,8 @@ A classifier based on machine learning techniques to classify user reviews into 
  - sklearn
 
 For detailed installing instructions please refer to the following links: 
-https://www.python.org/getit/
-https://pip.pypa.io//en/latest/
+- https://www.python.org/getit/
+- https://pip.pypa.io//en/latest/
 
 # Approach taken (Pipelines)
  - Data Preprocessing
